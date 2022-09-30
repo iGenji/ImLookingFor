@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "413673071410",
+    "firebase_url": "https://imlookingfor-1735b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "imlookingfor-1735b",
+    "storage_bucket": "imlookingfor-1735b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413673071410:android:e761ada4737cdc67a6ad2b",
+        "android_client_info": {
+          "package_name": "bf.digital.mobile.imlookingfor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413673071410-mt73o7lilsl0m6td9jtalb0oo23v5qvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bf.digital.mobile.imlookingfor",
+            "certificate_hash": "1d21dc4e42c83e2887fa0eb7e52cbe7fee5ab2e0"
+          }
+        },
+        {
+          "client_id": "413673071410-nbcicrvm7o21gjq1t3qsmft718724vk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bf.digital.mobile.imlookingfor",
+            "certificate_hash": "adb31279b3a25e1695318ff45ca5d8cba8b42f06"
+          }
+        },
+        {
+          "client_id": "413673071410-03ot8sesfuc9enk8hqha8einj19pivng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCha3pCgAQtJa7wvEzw3c0mzzL9kiyap2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413673071410-03ot8sesfuc9enk8hqha8einj19pivng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

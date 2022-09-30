@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ImLookingFor</string>
+    <string name="startup_login_button">login</string>
+    <string name="startup_button_register_model">Register as a model</string>
+    <string name="startup_button_register_company">Register as a company</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="login_button_text">Log in</string>
+    <string name="register_button">Register</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">age</string>
+    <string name="hint_gender">I\'m a (Gender)</string>
+    <string name="hint_man">man</string>
+    <string name="hint_woman">woman</string>
+    <string name="apply_changes_button">Apply changes</string>
+    <string name="sign_out_button">Sign out</string>
+    <string name="hint_description">description</string>
+    <string name="button_login_model">Log in as a model</string>
+    <string name="button_login_company">Log in as a company</string>
+    <string name="text_no_more_users">No more available users</string>
+</resources>
